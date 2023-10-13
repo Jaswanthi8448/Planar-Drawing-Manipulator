@@ -18,3 +18,4 @@ Joint Angle(θ) - Angle of rotation for the x-axis along the previous z-axis
 Joint Offset(d) - Offset along the z-axis, till Intersection of Z axis and Common Normal
 Link Length(a) - Translate X (a) till Intersection of Common Normal and Line
 Twist Angle(α)  - Angle of rotation so that Z axis aligns with common Normal
+
